@@ -1,10 +1,8 @@
 LLM Assignment for Artificial Intelligence (AI) internship at Betterzila (Changumangu Solutions LLP)
 
 Name:-Piyush Agarwal
-Contact:- 
- 1)email:-piyushagarwal14.pa@gmail.com
- 2)Phone Number:- 7972103836
-
+Contact:- email:-piyushagarwal14.pa@gmail.com
+ 
 PDF Chatbot
 
 PDF Chatbot is a Streamlit-based web application that allows users to upload PDF and text files, interact with a chatbot, and ask questions based on the content of the uploaded documents. The chatbot leverages Google's Generative AI model to provide responses to user queries.

@@ -1,0 +1,6 @@
+langchain
+streamlit
+genai
+PyPDF2
+pymongo
+dotenv

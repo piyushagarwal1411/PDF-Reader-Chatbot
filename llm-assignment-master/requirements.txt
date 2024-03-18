@@ -1,5 +1,5 @@
 langchain
 streamlit
-genai
+google-generativeai
 PyPDF2
 pymongo

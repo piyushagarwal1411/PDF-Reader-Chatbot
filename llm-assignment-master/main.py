@@ -20,9 +20,9 @@ import pymongo
 
 # from langchain_google_genai import ChatGoogleGenerativeAI
 
-load_dotenv()
-os.getenv("GOOGLE_API_KEY")
-genai.configure(api_key=os.getenv("GOOGLE_API_KEY"))
+
+#os.getenv("GOOGLE_API_KEY")
+genai.configure(api_key= "AIzaSyBmZtXjJgp7yIAo9joNCZGSxK9PbGMcVaA")
 
 raw_text = ''
 

@@ -13,7 +13,7 @@ from langchain.prompts import PromptTemplate
 # from langchain_core.messages import HumanMessage
 from langchain.chains import ConversationChain
 from langchain.memory import ConversationBufferMemory
-import pymongo
+#import pymongo
 
 # from langchain.docstore.document import Document
 
@@ -46,7 +46,8 @@ def get_pdf_text(pdf_docs, i):
     )
     chunks = text_splitter.split_text(text=text)
 
-    client = pymongo.MongoClient()
+    #pymongo has been commented since while deploying the app on streamlit there is no local db
+    '''client = pymongo.MongoClient()
 
     db = client.my_database
 
@@ -56,7 +57,7 @@ def get_pdf_text(pdf_docs, i):
 
     collection.insert_one(document)
 
-    client.close()
+    client.close()'''
 
     return ''.join(chunks)
 

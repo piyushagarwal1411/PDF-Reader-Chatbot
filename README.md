@@ -2,6 +2,9 @@ LLM Assignment for Artificial Intelligence (AI) internship at Betterzila (Changu
 
 Name:-Piyush Agarwal
 Contact:- email:-piyushagarwal14.pa@gmail.com
+
+Loom video:-https://www.loom.com/share/ac568af19d2146f5a4e1844ea58decb1?sid=8e6854c0-a944-44e5-a211-f005ca0794b3
+Streamlit app link:-https://llm-assignment-piyushagarwal.streamlit.app
  
 
 PDF Chatbot

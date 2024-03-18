@@ -21,8 +21,8 @@ import pymongo
 
 
 #os.getenv("GOOGLE_API_KEY")
-genai.configure(api_key= "AIzaSyBmZtXjJgp7yIAo9joNCZGSxK9PbGMcVaA")
-
+os.environ['GOOGLE_API_KEY'] = "AIzaSyBmZtXjJgp7yIAo9joNCZGSxK9PbGMcVaA"
+genai.configure(api_key = os.environ['GOOGLE_API_KEY'])
 raw_text = ''
 
 # read all pdf files and return text

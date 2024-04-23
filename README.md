@@ -1,5 +1,3 @@
-LLM Assignment for Artificial Intelligence (AI) internship at Betterzila (Changumangu Solutions LLP)
-
 Name:-Piyush Agarwal
 Contact:- email:-piyushagarwal14.pa@gmail.com
 
